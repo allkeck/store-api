@@ -1,12 +1,50 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+    "id_product": 1,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL R 89",
+    "price": 4530,
+    "img": "R89.jpg"
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
+    "id_product": 2,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL R 41",
+    "price": 4530,
+    "img": "R41.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL R 89 GRANDE",
+    "price": 5780,
+    "img": "R89GRANDE.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL R 108",
+    "price": 4530,
+    "img": "R108.jpg"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL R 106",
+    "price": 4530,
+    "img": "R106.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Т-образная бритва MUEHLE TRADITIONAL",
+    "price": 4530,
+    "img": "R101.jpg"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Бритва MUEHLE RYTMO",
+    "price": 5030,
+    "img": "R220M3.jpg"
+  },
+  {
+    "id_product": 8,
+    "product_name": "Т-образная бритва MUEHLE RYTMO",
+    "price": 5030,
+    "img": "R220SR.jpg"
   }
 ]
