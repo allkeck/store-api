@@ -3,18 +3,22 @@
   "fields": [
     {
       "label": "Имя",
+      "type": "text",
       "validation": ""
     },
     {
       "label": "Телефон",
+      "type": "text",
       "validation": ""
     },
     {
       "label": "E-mail",
+      "type": "text",
       "validation": ""
     },
     {
       "label": "Сообщение",
+      "type": "textarea",
       "validation": ""
     }
   ]
