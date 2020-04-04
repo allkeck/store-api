@@ -1,0 +1,21 @@
+{
+  "heading": "Форма обратной связи",
+  "fields": [
+    {
+      "label": "Имя",
+      "validation": ""
+    },
+    {
+      "label": "Телефон",
+      "validation": ""
+    },
+    {
+      "label": "E-mail",
+      "validation": ""
+    },
+    {
+      "label": "Сообщение",
+      "validation": ""
+    }
+  ]
+}
