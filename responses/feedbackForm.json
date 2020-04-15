@@ -6,40 +6,40 @@
       "type": "text",
       "validation": "^[a-zA-ZА-Яа-я]+$",
       "tagName": "input",
-      "attributes": [
-        {"type":"text"},
-        {"name": "Имя"}
-      ]
+      "attributes": {
+        "type":"text",
+        "name": "name"
+      }
     },
     {
       "label": "Телефон",
       "type": "text",
       "validation": "",
       "tagName": "input",
-      "attributes": [
-        {"type":"text"},
-        {"name": "Телефон"}
-      ]
+      "attributes": {
+        "type":"text",
+        "name": "phone"
+      }
     },
     {
       "label": "E-mail",
       "type": "text",
       "validation": "",
       "tagName": "input",
-      "attributes": [
-        {"type":"text"},
-        {"name": "E-mail"}
-      ]
+      "attributes": {
+        "type":"text",
+        "name": "e-mail"
+      }
     },
     {
       "label": "Сообщение",
       "type": "textarea",
       "validation": "^.*$",
       "tagName": "textarea",
-      "attributes": [
-        {"cols":"45"},
-        {"rows": "10"}
-      ]
+      "attributes": {
+        "cols":"45",
+        "rows": "10"
+      }
     }
   ]
 }
