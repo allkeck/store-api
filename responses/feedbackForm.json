@@ -4,22 +4,42 @@
     {
       "label": "Имя",
       "type": "text",
-      "validation": "^[a-zA-ZА-Яа-я]+$"
+      "validation": "^[a-zA-ZА-Яа-я]+$",
+      "tagName": "input",
+      "attributes": [
+        {"type":"text"},
+        {"name": "Имя"}
+      ]
     },
     {
       "label": "Телефон",
       "type": "text",
-      "validation": ""
+      "validation": "",
+      "tagName": "input",
+      "attributes": [
+        {"type":"text"},
+        {"name": "Телефон"}
+      ]
     },
     {
       "label": "E-mail",
       "type": "text",
-      "validation": ""
+      "validation": "",
+      "tagName": "input",
+      "attributes": [
+        {"type":"text"},
+        {"name": "E-mail"}
+      ]
     },
     {
       "label": "Сообщение",
       "type": "textarea",
-      "validation": "^.*$"
+      "validation": "^.*$",
+      "tagName": "textarea",
+      "attributes": [
+        {"cols":"45"},
+        {"rows": "10"}
+      ]
     }
   ]
 }
